@@ -8,4 +8,100 @@ h1{
 
 .head-color{
     color: red;
+    padding-bottom: 50px;
 }
+.heading{
+    color:red;
+    padding-bottom: 120px;
+}
+.discription .paragraph{
+    padding-top: 50px;
+}
+ 
+section{
+    display: flex;
+}
+.upper-property{
+    width:50%;
+    padding-left: 15%;
+}
+.upper-property img{
+    width: 300%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+
+}
+.link-button:hover{
+    background-color:red;
+    /* color: white; */
+}
+/* second section start */
+ .seond-section{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+
+.card{
+    width: 250px;
+  
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px rgb(100, 77, 77);
+    margin: 30px;
+    
+}
+
+
+.first-card img{
+    
+width: 100%;
+}
+.all-feture{
+    display: flex;
+    justify-content: center;
+  
+  
+}
+.slice{
+    border-left:  3px solid red ;
+    padding-bottom: 70px;
+   
+   
+}
+.third-property img{
+    width: 40%;
+    padding-top: 70px;
+    padding-left: 620px;
+    margin: 20px;
+    
+}
+.discription{
+    padding-left: 50px;
+    padding-bottom: 140px;
+
+}
+.link-button-1{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 70px;
+    border-radius: 5px;
+}
+.link-button-1:hover{
+    background-color:red;
+    /* color: white; */
+}
+
+/* 
+end third section */
+
+
